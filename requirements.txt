@@ -1,4 +1,6 @@
 voila
 fastai
+pillow
+packaging
 ipywidgets
 requests
